@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.company.Anasayfa">
+  <grid id="27dc6" binding="U_Panel" layout-manager="GridLayoutManager" row-count="4" column-count="9" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="285" left="55" bottom="50" right="55"/>
+    <constraints>
+      <xy x="20" y="20" width="826" height="519"/>
+    </constraints>
+    <properties>
+      <foreground color="-1"/>
+      <opaque value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="b8725" class="javax.swing.JButton" binding="U_Detay1">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13394794"/>
+          <borderPainted value="false"/>
+          <contentAreaFilled value="true"/>
+          <defaultCapable value="true"/>
+          <enabled value="true"/>
+          <focusable value="true"/>
+          <font name="Bookshelf Symbol 7" size="12" style="0"/>
+          <foreground color="-1"/>
+          <hideActionText value="false"/>
+          <opaque value="false"/>
+          <requestFocusEnabled value="true"/>
+          <text value="Detaylar için"/>
+          <verifyInputWhenFocusTarget value="true"/>
+        </properties>
+        <clientProperties>
+          <hideActionText class="java.lang.Boolean" value="false"/>
+        </clientProperties>
+      </component>
+      <component id="d953f" class="javax.swing.JButton" binding="U_Detay3">
+        <constraints>
+          <grid row="1" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-13394794"/>
+          <borderPainted value="false"/>
+          <enabled value="true"/>
+          <font name="Bookshelf Symbol 7" size="12" style="0"/>
+          <foreground color="-1"/>
+          <hideActionText value="true"/>
+          <requestFocusEnabled value="false"/>
+          <text value="Detaylar için"/>
+          <verifyInputWhenFocusTarget value="true"/>
+        </properties>
+      </component>
+      <vspacer id="aecc6">
+        <constraints>
+          <grid row="2" column="1" row-span="2" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </vspacer>
+      <hspacer id="24845">
+        <constraints>
+          <grid row="1" column="8" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="c6ee0">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <vspacer id="7f8e7">
+        <constraints>
+          <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false">
+            <preferred-size width="84" height="21"/>
+          </grid>
+        </constraints>
+      </vspacer>
+      <vspacer id="7deea">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false">
+            <preferred-size width="84" height="88"/>
+          </grid>
+        </constraints>
+      </vspacer>
+      <component id="ee352" class="javax.swing.JButton" binding="U_Abone">
+        <constraints>
+          <grid row="3" column="3" row-span="1" col-span="3" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="156" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-3851713"/>
+          <font size="22"/>
+          <foreground color="-1"/>
+          <requestFocusEnabled value="false"/>
+          <text value="Hemen bağışta bulunun"/>
+          <verifyInputWhenFocusTarget value="true"/>
+          <visible value="true"/>
+        </properties>
+      </component>
+      <hspacer id="529ee">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <component id="ef19d" class="javax.swing.JButton" binding="U_Detay2">
+        <constraints>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="1" use-parent-layout="false">
+            <preferred-size width="84" height="30"/>
+          </grid>
+        </constraints>
+        <properties>
+          <alignmentY value="0.0"/>
+          <autoscrolls value="false"/>
+          <background color="-13394794"/>
+          <borderPainted value="false"/>
+          <contentAreaFilled value="true"/>
+          <font name="Bookshelf Symbol 7" size="12" style="0"/>
+          <foreground color="-1"/>
+          <hideActionText value="true"/>
+          <requestFocusEnabled value="false"/>
+          <text value="Detaylar için"/>
+        </properties>
+      </component>
+      <hspacer id="9bdd">
+        <constraints>
+          <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="1b43b">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="1dd77">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+    </children>
+  </grid>
+</form>
